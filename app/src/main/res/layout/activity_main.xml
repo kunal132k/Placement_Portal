@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical"
+    android:background="@drawable/nitjsr">
+<LinearLayout
+    android:layout_width="320dp"
+    android:layout_height="500dp"
+    android:layout_gravity="center"
+    android:orientation="vertical"
+    android:layout_marginTop="100dp"
+    android:background="#B7000000"
+    >
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Placement Portal"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:layout_marginTop="60dp"
+        android:textSize="45dp"
+        android:textColor="#FAE8E8"
+        android:textStyle="bold"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="NIT Jamshedpur"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:layout_marginTop="10dp"
+        android:textSize="35dp"
+        android:textColor="#FAE8E8"
+        android:textStyle="bold"
+        />
+    <Button
+        android:layout_width="300dp"
+        android:layout_height="60dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="80dp"
+        android:textColor="#fff"
+        android:background="#428F65"
+        android:text="Student Login"
+        android:textSize="25dp"
+        android:id="@+id/studentpagebtn"
+        android:onClick="studentpage"/>
+    <Button
+        android:layout_width="300dp"
+        android:layout_height="60dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="15dp"
+        android:textColor="#fff"
+        android:background="#428F65"
+        android:text="Admin Login"
+        android:textSize="25dp"
+        android:id="@+id/companypagebtn"
+        android:onClick="companypage"/>
+</LinearLayout>
+
+</LinearLayout>

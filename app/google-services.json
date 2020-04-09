@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "413075880296",
+    "firebase_url": "https://placementportal-7e024.firebaseio.com",
+    "project_id": "placementportal-7e024",
+    "storage_bucket": "placementportal-7e024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413075880296:android:00b34bc221dcbd08",
+        "android_client_info": {
+          "package_name": "com.example.lenovo.placement_portal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413075880296-thrlih3ifvvd2lsl1mae1s2lleotmedd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lenovo.placement_portal",
+            "certificate_hash": "48727c222495e21c2eaa67c5ba60ccba593e77f5"
+          }
+        },
+        {
+          "client_id": "413075880296-vrkb1156h9mqt33c63v2akos93dsa9g7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaum66dxZXCWgDwpyri0ii9e7f3lhz90Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413075880296-vrkb1156h9mqt33c63v2akos93dsa9g7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
