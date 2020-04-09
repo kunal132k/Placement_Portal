@@ -33,7 +33,7 @@ public class StudentPage extends AppCompatActivity {
 
 FirebaseAuth firebaseAuth;
 FirebaseDatabase firebaseDatabase;
-   FirebaseFirestore firebaseFirestore;
+FirebaseFirestore firebaseFirestore;
 RecyclerView recyclerView;
 RecyclerViewAdapter recyclerViewAdapter;
 RecyclerView.LayoutManager layoutManager;
